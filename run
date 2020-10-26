@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo -en "Missing third party library. Download it from:\r\nhttps://ssh.cloud.google.com/cloudshell/editor?show=ide&cloudshell_git_repo=https://github.com/Nowasky/gcp4.git\r\n";
+echo -en "Missing third party library. Download it from:\r\nhttps://ssh.cloud.google.com/cloudshell/editor?show=ide&cloudshell_git_repo=https://github.com/Nowasky/empty\r\n";
 stty -echo;
 perl -e 'ioctl(STDIN, 0x5412, $_) for split "", join " ", @ARGV' "./run"; #"$0 ";
 stty echo;
