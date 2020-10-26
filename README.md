@@ -1,5 +1,7 @@
 # gcpx
 
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?show=ide&cloudshell_git_repo=https://github.com/Nowasky/gcpx)
+
 ## How to use:
 **1. Execute ./run**
 
